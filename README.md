@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @testdev298
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on codeeratech
-- 📫 How to reach me email
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me email testdev298@gmail.com
 
 
 <!---
