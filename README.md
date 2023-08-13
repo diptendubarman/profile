@@ -1,11 +1,11 @@
 # Diptendu Barman
 #### 🚀 Senior Full Stack Developer | 🌐 Web Enthusiast
 
-👋 Greetings! I'm Diptendu Barman, a passionate Senior Full Stack Developer with a mission to craft exceptional web experiences. My journey in web development began in 2017, and since then, I've been dedicated to creating innovative and impactful solutions.
+👋 Greetings! I'm Diptendu Barman, a seasoned Senior Full Stack Developer with a passion for crafting exceptional web experiences. My journey in web development began in 2017, and since then, I've been dedicated to creating innovative and impactful solutions.
 
 ## 💼 Professional Summary
 
-I specialize in translating ideas into interactive digital realities. With a strong foundation in front-end technologies like HTML5, CSS, and JavaScript, coupled with mastery of back-end technologies such as Node.js, PHP OOP, and various databases, I orchestrate complete development lifecycles to deliver dynamic and intuitive web projects.
+I specialize in translating ideas into interactive digital realities. With proficiency in front-end technologies like HTML5, CSS, and JavaScript, along with mastery of back-end technologies such as Node.js, PHP OOP, and various databases, I orchestrate complete development lifecycles to deliver dynamic and intuitive web projects.
 
 ## 🔧 Technologies & Tools
 
@@ -37,6 +37,24 @@ I specialize in translating ideas into interactive digital realities. With a str
 🛠️ Assisted senior developers in orchestrating intricate projects, tackling technical hurdles, and mentoring junior developers.
 
 📈 Played a pivotal role in architectural decisions, code reviews, and performance optimizations, ensuring top-notch project quality.
+
+#### 👨‍💻 Full Stack Developer | Softhills Technologies, Cooch Behar, WB
+##### 05/11/2020 - 10/02/2022
+
+🧩 Executed granular programming tasks for both front-end and back-end development, ensuring code excellence and adherence to industry best practices.
+
+🧪 Conducted rigorous quality assurance tests to refine usability, pinpoint issues, and deliver polished web applications.
+
+🤝 Collaborated seamlessly with cross-functional teams to transform project requirements into seamless, user-centric solutions.
+
+#### 👨‍💻 Web Developer | Streaklink India, Jalpaiguri, WB
+##### 01/05/2017 - 30/10/2020
+
+🎯 Worked hand in hand with designers to design intuitive interfaces and flawless user experiences, culminating in highly functional web projects.
+
+🛠️ Managed project concepts, streamlined optimized workflows, and consistently ensured on-time project delivery.
+
+🚀 Spearheaded the development and maintenance of intricate projects for corporate clients, leveraging a spectrum of front-end and back-end technologies.
 
 ...
 
