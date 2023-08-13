@@ -55,7 +55,6 @@
 
 Let's connect and explore opportunities to collaborate, innovate, and create remarkable digital solutions together. Feel free to reach out!
 
-[LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
-[Website](https://www.yourwebsite.com)
-[Email](mailto:youremail@example.com)
+[LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/diptendu-barman/))
+[Email](mailto:testdev298@gmail.com)
 
