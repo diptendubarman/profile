@@ -50,6 +50,32 @@ I specialize in translating ideas into interactive digital realities. With profi
 
 ...
 
+## Projects
+
+### Fortunedge Capital - Customer Management Software
+- **Description:** Developed a Customer Management software using Vue.js with Framework7 for the frontend and Slim PHP for the API. Managed customer data, interactions, and appointments efficiently.
+- **Technologies:** Vue.js, Framework7, Slim PHP, MySQL
+- **GitHub Repo:** [Fortunedge Capital Repo](https://github.com/yourusername/fortunedge-capital)
+
+### North Bengal Properties - Property Management Platform
+- **Description:** Created a Property Management platform using Vue.js for the frontend and Node.js with MongoDB for the backend. Facilitated property listing, search, and user interactions.
+- **Technologies:** Vue.js, Node.js, MongoDB, Express
+- **GitHub Repo:** [North Bengal Properties Repo](https://github.com/yourusername/north-bengal-properties)
+
+### Pratik Chakraborty - Personal Portfolio
+- **Description:** Designed and developed a Personal Portfolio website using WordPress for the web version and Vue.js with Framework7 for the app version. Showcased projects, skills, and contact information.
+- **Technologies:** WordPress, Vue.js, Framework7
+- **GitHub Repo:** [Pratik Chakraborty Repo](https://github.com/yourusername/pratik-chakraborty)
+
+### StocksTutor - Stock Market Learning Platform
+- **Description:** Created a Stock Market Learning platform with Lumen PHP for API endpoints and MySQL for data storage. Users can access educational resources and track their progress.
+- **Technologies:** Lumen PHP, MySQL
+- **GitHub Repo:** [StocksTutor Repo](https://github.com/yourusername/stockstutor)
+
+Feel free to explore these projects to learn more about my work. Connect with me on LinkedIn and check out my portfolio for more insights into my journey as a Full Stack Web Developer!
+
+...
+
 ## 📚 Education
 
 - **B.Tech in Computer Science and Engineering** | Camellia Institute of Technology, Kolkata | Expected 2025
