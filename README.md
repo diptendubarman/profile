@@ -67,5 +67,5 @@ I specialize in translating ideas into interactive digital realities. With profi
 
 Let's connect and explore opportunities to collaborate, innovate, and create remarkable digital solutions together. Feel free to reach out!
 
-📧 [Email](mailto:testdev298@gmail.com)
+📧 [Email](mailto:diptendubarman40@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/diptendu-barman/)
